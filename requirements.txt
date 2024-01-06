@@ -1,0 +1,9 @@
+scikit-image
+matplotlib
+numpy 
+filterpy
+opencv-python
+cvzone 
+ultralytics
+tensorflow==2.0.8
+deepface
